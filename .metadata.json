@@ -1,0 +1,22 @@
+[
+  {
+    "package": "gluedown",
+    "oncran": true
+  },
+  {
+    "package": "mdbr",
+    "oncran": true
+  },
+  {
+    "package": "metro",
+    "oncran": true
+  },
+  {
+    "package": "srt",
+    "oncran": true
+  },
+  {
+    "package": "usa",
+    "oncran": true
+  }
+]
